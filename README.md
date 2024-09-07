@@ -28,6 +28,8 @@
     <footer style="background-color:#FFFAF0;text-align:right">
         <div style="float:left; width:100%"><img src="https://i.ibb.co/3fthM8W/logo.png" height="40px"/><br>Calle Rubiola, 25</div>
             <p>Tlf. 925 80 22 16</p>
+    <a href="https://www.facebook.com/"><img src="https://i.ibb.co/8MP2Hg6/logo-facebook.jpg" height="22"></a>
+    <a href="https://instagram.com/home"><img src="https://i.ibb.co/Tgrs4FM/logo-instagram.jpg" height="20px"> </a>
     </footer>
 </body>
 </html>
